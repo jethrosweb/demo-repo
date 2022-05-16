@@ -5,3 +5,7 @@ Demo repository for the freeCodeCamp Git and GitHub for Beginners crash course -
 ## Sub-header
 
 This text is added as part of the course. 
+
+## Local development
+1. Open index.html in your browser (for demo purposes)
+
